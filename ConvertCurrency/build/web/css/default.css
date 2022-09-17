@@ -1,0 +1,27 @@
+
+h2{
+    color: red;
+    text-transform: uppercase
+}
+#profile{
+    width: 400px; 
+    height: 200px;
+    border: 1px solid red;
+    padding:  30px; 
+    background: #c5c5f5 
+}
+b{
+    float: left;
+}
+.amout{
+    margin-left: -16px
+}
+.result{
+    margin: 10px;
+}
+.r2d{
+    margin-left: -70px;
+}
+.d2r{
+    margin-left: 85px
+}
